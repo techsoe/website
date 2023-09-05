@@ -109,7 +109,7 @@ function Project() {
 
     const progUsed = ['Android Studio', 'Java', 'XML']
 
-    const used = progUsed.map(item => <li style={listBox}><p>{item}</p></li>)
+    const used = progUsed.map((item, index) => <li key={index} style={listBox}><p>{item}</p></li>)
 
   return (
     <div style={bodyStyles}>
