@@ -1,0 +1,9 @@
+
+a:hover {
+    background-color: rgba(155, 130, 130, 0.1);
+    border-radius: 5px;
+}
+
+button:hover {
+    background-color: rgba(155, 130, 130, 0.1);
+}
