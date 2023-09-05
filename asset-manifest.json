@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/website/static/css/main.b6764bd1.css",
+    "main.js": "/website/static/js/main.7f4e78ad.js",
+    "static/js/787.71e672d5.chunk.js": "/website/static/js/787.71e672d5.chunk.js",
+    "static/media/myImg.png": "/website/static/media/myImg.2c6e88f4cfa7a8d26491.png",
+    "static/media/myResume.pdf": "/website/static/media/myResume.ac66992912c8d3394ef0.pdf",
+    "static/media/react.png": "/website/static/media/react.4127b36258b5e9dc8f88.png",
+    "static/media/numsum.png": "/website/static/media/numsum.eeef355f46cd8f8e4407.png",
+    "static/media/pocketherbs.png": "/website/static/media/pocketherbs.b0ab3280e9db32814a17.png",
+    "static/media/android.png": "/website/static/media/android.5e321a516861f5b9c072.png",
+    "static/media/java.png": "/website/static/media/java.f5dd86c3ef6ef3f85acf.png",
+    "static/media/html.png": "/website/static/media/html.6e930594286d8afe4c79.png",
+    "static/media/java-script.png": "/website/static/media/java-script.78206ba65e01c7d57080.png",
+    "static/media/xml.png": "/website/static/media/xml.e76b5a054aaa67ba11ee.png",
+    "static/media/css-3.png": "/website/static/media/css-3.4a6549b8c2b4cda8bb88.png",
+    "index.html": "/website/index.html",
+    "main.b6764bd1.css.map": "/website/static/css/main.b6764bd1.css.map",
+    "main.7f4e78ad.js.map": "/website/static/js/main.7f4e78ad.js.map",
+    "787.71e672d5.chunk.js.map": "/website/static/js/787.71e672d5.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b6764bd1.css",
+    "static/js/main.7f4e78ad.js"
+  ]
+}
